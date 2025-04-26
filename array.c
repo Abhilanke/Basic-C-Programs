@@ -1,4 +1,5 @@
 // address of no,ch and sizeof no,ch
+
 #include<stdio.h>
 int main()
 {
